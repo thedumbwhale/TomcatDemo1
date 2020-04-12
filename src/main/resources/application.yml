@@ -1,0 +1,15 @@
+spring:
+    thymeleaf:
+        prefix: classpath:/templates/
+        cache: false
+        suffix: .html
+
+#    datasource:
+#        url: jdbc:mysql://ip/数据库?characterEncoding=UTF-8
+#        username: xxx
+#        password: xxx
+#        driver-class-name: com.mysql.jdbc.Driver
+
+#mybatis:
+#    mapper-locations: classpath:mapper/*.xml
+
